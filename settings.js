@@ -8,19 +8,19 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.botname = 'KHALIL BLACK EYES' //ur bot name
+global.ownernumber = '2250546526324' //ur owner number
+global.ownername = 'KHALIL-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
 global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
-global.packname = "Sticker By"
+global.packname = "𓆩᪣ᬼ⃟𝞙𝞖𝞓𝙇𝞘𝙇🍆 𝘿𝞗𝙐𝞑𝙇𝞢🥷🏾 𝙁𝞓𝘾𝞢🌴᪣ᬼ⃟𓆩♡𓆪"
 global.author = "ELITE-PRO-V2\n\n+2348109263390"
 global.creator = "2348109263390@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.xprefix = '!'
+global.premium = ["2250546526324"] // Premium User
 global.hituet = 0
 //Stop here don't exceeds'-----------------
 
@@ -36,11 +36,11 @@ global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
 global.mess = {
-	limit: 'Your limit is up!',
+	limit: 'Your limit is up MOWDIAT!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-    done: 'Done✓',
-    error: 'Error!',
-    success: 'Here you go!'
+    done: 'Done MOWDIAT BRO✓',
+    error: 'Error BASTARD!',
+    success: 'Here you go BATALA!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./EliteProMedia/theme/elitepro.png')
